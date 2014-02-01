@@ -18,6 +18,6 @@ production:
       database: fedena_ultimate
       port: 3306
       username: root
-      password: foradian
+      password: "foradian"
 cucumber:
   <<: *test
