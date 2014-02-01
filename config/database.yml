@@ -4,13 +4,13 @@ development:
       database: Fedena
       port: 3306
       username: root
-      password: 12345
+      password: "12345"
       host: localhost
       adapter: mysql
       database: Fedena
       port: 3307
       username: root
-      password: 12345
+      password: "12345"
 
 production:
       host: localhost
